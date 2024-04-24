@@ -1,6 +1,6 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-## NAME:MADHUVATHANI.V
-## REG.NO:212223040107
+## NAME:JIDHESH P
+## REG.NO:212223040078
 ## AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
